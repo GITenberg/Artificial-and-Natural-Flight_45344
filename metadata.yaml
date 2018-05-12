@@ -1,0 +1,29 @@
+_repo: Artificial-and-Natural-Flight_45344
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45344-h/images/cover_h.jpg
+creator:
+  author:
+    agent_name: Maxim, Hiram S. (Hiram Stevens)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '43230'
+    url: http://www.gutenberg.org/2009/agents/43230
+description: ''
+gutenberg_issued: '2014-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45344'
+  lccn: '32005194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes'
+- !lcsh 'Aeronautics'
+- !lcsh 'Flight'
+- !lcc 'TL'
+title: Artificial and Natural Flight
+url: http://www.gutenberg.org/ebooks/45344
